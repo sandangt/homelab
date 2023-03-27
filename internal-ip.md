@@ -1,0 +1,7 @@
+- firewall: 192.168.3.1
+- proxy manager: 192.168.3.3:81
+- monitoring: 192.168.3.4
+  - grafana: 3000
+  - influxdb: 8086
+- blog / portfolio: 192.168.3.6
+- wifi-external: 192.168.3.5
